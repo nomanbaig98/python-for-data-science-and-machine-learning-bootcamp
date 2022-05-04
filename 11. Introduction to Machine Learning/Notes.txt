@@ -1,0 +1,49 @@
+Supervised Learning:
+
+the learning in which we mould our inputs in accordance with correct output.
+
+Example: Comparing spam with legitimate email
+
+
+Classification error metrics:
+
+Accuracy:
+no. of correct predictions / total no. of predictions
+
+
+Recall TP/ TP + FN
+
+
+Precision TP/ TP + FP 
+
+
+
+F1 score:
+combination of recall and precision
+
+
+
+Confusion matrix:
+
+consider an example of model predicting disease
+
+True Positive : patient has the disease and model predicting that it has the disease
+
+
+True Negative : patient does'nt has the disease and model predicting that it does'nt has the disease
+
+
+False Positive : patient does'nt has the disease and model predicting that it has the disease
+
+
+False Negative : patient has the disease and model predicting that it does'nt has the disease
+
+
+
+Regression error metrics:
+
+Regression is when model predicts continuous values unlike categorical values (which is classification)
+	
+
+
+
