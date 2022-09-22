@@ -1,0 +1,22 @@
+#types of seaborn plots.
+
+sns.displot -> #take a single argument for numerical values
+
+sns.jointplot -> #for presentation between any two numerical columns
+
+sns.pairplot -> #plot combination among all present columns having numerical value 
+
+sns.barplot
+
+sns.counplot
+
+sns.boxplot
+
+sns.violinplot
+
+sns.stripplot
+
+sns.swarmplot
+
+sns.factorplot  ->  just put the plot name in kind='bar' like this to plot by using plot names
+
