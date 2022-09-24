@@ -20,3 +20,17 @@ sns.swarmplot
 
 sns.factorplot  ->  just put the plot name in kind='bar' like this to plot by using plot names
 
+sns.heatmap
+
+sns.clustermap  -> heatmap contains columns in order but clustermap plot random columns based on their interactivity (so similar cluster groups come close to each other)
+
+sns.PairGrid
+
+sns.FacetGrid
+
+sns.regplot
+
+sns.JointGrid
+
+sns.lmplot
+
