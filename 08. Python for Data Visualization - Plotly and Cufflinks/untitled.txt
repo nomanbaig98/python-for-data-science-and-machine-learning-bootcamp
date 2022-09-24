@@ -1,0 +1,26 @@
+.plot()
+
+.iplot()
+
+.iplot(kind='surface')
+
+Kind of chart
+                               scatter
+                               bar
+                               box
+                               spread
+                               ratio
+                               heatmap
+                               surface
+                               histogram
+                               bubble
+                               bubble3d
+                               scatter3d       
+                               scattergeo
+                               ohlc
+                               candle
+                               pie
+                               choroplet  
+                               
+                               
+                               
