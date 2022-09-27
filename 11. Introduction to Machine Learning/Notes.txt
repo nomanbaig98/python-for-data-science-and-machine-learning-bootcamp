@@ -65,7 +65,8 @@ Regression error metrics:
 Regression is when model predicts continuous values unlike categorical values (which is classification)
 
 
-
+Independent Variable (x) 
+Dependent Variable (y)
 
 
 ML models Usage:
