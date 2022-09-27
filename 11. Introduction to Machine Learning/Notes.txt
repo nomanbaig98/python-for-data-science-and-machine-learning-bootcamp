@@ -5,6 +5,17 @@ the learning in which we mould our inputs in accordance with correct output.
 Example: Comparing spam with legitimate email
 
 
+
+
+Unsupervised Learning: 
+
+models are trained using unlabeled dataset, models itself find the hidden patterns and insights from the given data.
+
+Example: Customer Segmentation
+
+
+
+
 Classification error metrics:
 
 Accuracy:
