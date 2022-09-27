@@ -7,11 +7,15 @@ Example: Comparing spam with legitimate email
 
 
 
+
+
 Unsupervised Learning: 
 
 models are trained using unlabeled dataset, models itself find the hidden patterns and insights from the given data.
 
 Example: Customer Segmentation
+
+
 
 
 
@@ -28,9 +32,11 @@ Recall TP/ TP + FN
 Precision TP/ TP + FP 
 
 
-
 F1 score:
 combination of recall and precision
+
+
+
 
 
 
@@ -51,10 +57,36 @@ False Negative : patient has the disease and model predicting that it does'nt ha
 
 
 
+
+
+
 Regression error metrics:
 
 Regression is when model predicts continuous values unlike categorical values (which is classification)
-	
+
+
+
+
+
+ML models Usage:
+
+Linear Regression:
+
+Linear Regression is a machine learning algorithm based on supervised learning.
+Linear regression is used to predict the value of a variable based on the value of another variable.
+It performs a regression task. Regression models a target prediction value based on independent variables.
+The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable.
+Linear Regression can be used to generate insights on consumer behaviour, understanding business and factors influencing profitability. Linear regressions can be used in business to evaluate trends and make estimates or forecasts.
+For example, if a company’s sales have increased steadily every month for the past few years, by conducting a linear analysis on the sales data with monthly sales, the company could forecast sales in future months.
+
+
+
+
+
+
+
+
+
 
 
 
