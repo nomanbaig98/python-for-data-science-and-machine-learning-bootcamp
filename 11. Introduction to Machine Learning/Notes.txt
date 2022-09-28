@@ -39,7 +39,10 @@ Example: Personalized recommendations on streaming platforms like YouTube.
 Classification error metrics:
 
 Accuracy:
-no. of correct predictions / total no. of predictions
+no. of correct predictions / total no. of predictions   -> TP + TN / total
+
+
+model error | misclassification rate (how often is the model wrong) -> FP + FN / total
 
 
 Recall TP/ TP + FN
