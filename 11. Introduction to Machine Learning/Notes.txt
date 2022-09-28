@@ -5,7 +5,10 @@ the learning in which we mould our inputs in accordance with correct output.
 Example: Comparing spam with legitimate email
 
 
+Types:
+1. Classification model predicts possible outcomes. Example: Predicting if a transaction is fraud or not.
 
+2. Regression model - Are used to predict a numerical value. Example: Predicting the sale price of a house.
 
 
 
@@ -15,6 +18,19 @@ models are trained using unlabeled dataset, models itself find the hidden patter
 
 Example: Customer Segmentation
 
+
+
+
+
+
+Reinforcement Learning:
+
+Learning by trial and error. This is the closest to how humans learn. 
+The motivation is to find optimal policy of how to act in a given environment. 
+The machine learning model examines all possible actions, makes a policy that maximizes benefit, and implements the policy(trial). 
+If there are errors from the initial policy, apply reinforcements back into the algorithm and continue to do this until you reach the optimal policy.
+
+Example: Personalized recommendations on streaming platforms like YouTube.
 
 
 
@@ -79,6 +95,40 @@ It performs a regression task. Regression models a target prediction value based
 The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable.
 Linear Regression can be used to generate insights on consumer behaviour, understanding business and factors influencing profitability. Linear regressions can be used in business to evaluate trends and make estimates or forecasts.
 For example, if a company’s sales have increased steadily every month for the past few years, by conducting a linear analysis on the sales data with monthly sales, the company could forecast sales in future months.
+Furthermore, predicting house prices and app usage for business growth.
+
+
+
+
+Logistic Regression:
+
+Logistic regression is an example of supervised learning.
+Logistic regression is a statistical analysis method to predict a binary outcome, such as yes or no, based on prior observations of a data set.
+An example of logistic regression could be applying machine learning to determine if a person is likely to be infected with COVID-19 or not.
+In health care, logistic regression can be used to predict if a tumor is likely to be benign or malignant.
+A credit card company wants to know whether transaction amount and credit score impact the probability of a given transaction being fraudulent.
+In marketing, logistic regression can be used to predict if a targeted audience will respond or not.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
