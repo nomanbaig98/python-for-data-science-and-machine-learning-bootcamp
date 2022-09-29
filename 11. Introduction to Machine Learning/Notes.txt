@@ -110,12 +110,20 @@ Logistic regression is a statistical analysis method to predict a binary outcome
 An example of logistic regression could be applying machine learning to determine if a person is likely to be infected with COVID-19 or not.
 In health care, logistic regression can be used to predict if a tumor is likely to be benign or malignant.
 A credit card company wants to know whether transaction amount and credit score impact the probability of a given transaction being fraudulent.
-In marketing, logistic regression can be used to predict if a targeted audience will respond or not.
+In marketing, logistic regression can be used to predict if a targeted audience will respond or not/ whether they click on the ad or not.
 
 
 
 
+K nearest Neighbors:
 
+The k-nearest neighbors (KNN) algorithm is a supervised machine learning algorithm that can be used to solve both classification and regression problems.
+K-NN algorithm assumes the similarity between the new case and available cases and put the new case into the category that is most similar to the available categories.
+It uses proximity to make classifications or predictions about the grouping of an individual data point.
+Applications are:
+Text Mining
+Facial recognition
+Recommendation systems (Amazon, Hulu, Netflix, etc)
 
 
 
