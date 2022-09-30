@@ -127,8 +127,25 @@ Recommendation systems (Amazon, Hulu, Netflix, etc)
 
 
 
+Decision Tree:
+Decision Trees is supervised learning method used for classification and regression.
+A Decision Tree is a Flow Chart, and can help you make decisions based on previous experience.
+In Decision Tree internal nodes represent the features of a dataset, branches represent the decision rules and each leaf node represents the outcome.
+
+For example, you might want to choose between manufacturing item A or item B, or investing in choice 1, choice 2, or choice 3.
+Decision Tree may have an overfitting issue, which can be resolved using the Random Forest algorithm.
 
 
+
+
+Random Forest:
+Random Forest is supervised learning technique for both Classification and Regression problems.
+Random Forest is a classifier that grows and combines multiple decision trees to create a “forest” on various subsets of the given dataset and takes the average to improve the predictive accuracy of that dataset.
+
+Example: Bank use this algorithm for the identification of loan risk.
+         We can identify the areas of similar land use by this algorithm.
+         Stock price prediction/trends
+         
 
 
 
