@@ -165,7 +165,19 @@ k-means is a technique for data clustering that may be used for unsupervised mac
 The algorithm iteratively divides data points into K clusters by minimizing the variance in each cluster.
 Variance is the change in prediction accuracy of ML model between training data and test data.
 K-means clustering is used when you have unlabeled data (i.e., data without defined categories or groups). The goal of this algorithm is to find groups in the data, with the number of groups represented by the variable K.
-Example: market segmentation, document clustering, image segmentation and image compressio,Search engines ,academic performance.
+Example: market segmentation, document clustering, image segmentation and image compression,Search engines ,academic performance.
+
+
+
+
+
+Principal Component Analysis:
+The Principal Component Analysis is a popular unsupervised learning technique for reducing the dimensionality of data. It increases interpretability yet, at the same time, it minimizes information loss. It helps to find the most significant features in a dataset and makes the data easy for plotting in 2D and 3D.
+PCA is used as a dimensionality reduction technique in domains like facial recognition, computer vision and image compression. It is also used for finding patterns in data of high dimension in the field of finance, data mining, bioinformatics, psychology, etc.
+
+
+
+
 
 
 
