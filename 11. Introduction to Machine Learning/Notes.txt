@@ -162,8 +162,10 @@ SVM algorithm can be used for Face detection, image classification, Handwriting 
 
 K means clustering:
 k-means is a technique for data clustering that may be used for unsupervised machine learning. It is capable of classifying unlabeled data into a predetermined number of clusters based on similarities (k).
-
-
+The algorithm iteratively divides data points into K clusters by minimizing the variance in each cluster.
+Variance is the change in prediction accuracy of ML model between training data and test data.
+K-means clustering is used when you have unlabeled data (i.e., data without defined categories or groups). The goal of this algorithm is to find groups in the data, with the number of groups represented by the variable K.
+Example: market segmentation, document clustering, image segmentation and image compressio,Search engines ,academic performance.
 
 
 
